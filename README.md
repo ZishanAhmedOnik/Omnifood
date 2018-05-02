@@ -1,3 +1,5 @@
 # Omnifood
 my web design practice project. 
-nothing serious :/
+nothing serious :/.
+
+Courtesy of Udemy :).
